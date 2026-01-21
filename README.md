@@ -43,6 +43,3 @@ python main.py
 
 ### Online Store
 - **Toko Online Sobri**: https://pegasus-shop.netlify.app
-
-## Disclaimer
-This project is for educational and ethical security testing purposes only. Never use these tools to perform unauthorized actions on systems you do not own or have explicit permission to test.
