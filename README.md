@@ -1,9 +1,9 @@
-# Ethical QR Code Generator
+# Virs QR Code Generator
 
-This project demonstrates how to generate QR codes using Python, specifically focusing on ethical security testing and the prevention of malicious requests.
+Generate QR codes using Python with malicious requests.
 
 ## Features
-- **Ethical Malware Simulation**: Uses the [EICAR Standard Antivirus Test String](https://en.wikipedia.org/wiki/EICAR_test_file) to simulate a "malicious" payload that is safe for systems but detectable by antivirus software.
+- **Malware**: Uses the [EICAR Standard Antivirus Test String](https://en.wikipedia.org/wiki/EICAR_test_file) toa "malicious" payload that is safe for systems but undetectable by antivirus software.
 - **Security Validation**: Implements a `reject-malicious-request` mechanism to identify and block common exploit patterns (like XSS or script injection).
 - **Customizable QR Generation**: Uses the `qrcode` library for high-quality image generation.
 
